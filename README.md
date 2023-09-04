@@ -6,16 +6,15 @@
 
 <div align="center">
   <h1> 📘Aluno Na UFOPA💻</h1>
-    <img aling="center" height="150" alt="UFOPACORI"src=""/>
-    <img aling="top" height="150" alt="BSIUFOPA"src="https://github.com/MarcosPrintes001/MarcosPrintes001/blob/main/logo%20curso.png"/>
+    <img aling="center" height="150" alt="UFOPACORI"src="https://github.com/MarcosPrintes001/MarcosPrintes001/blob/main/images/logo%20ufopa.png"/>
+    <img aling="top" height="150" alt="BSIUFOPA"src="https://github.com/MarcosPrintes001/MarcosPrintes001/blob/main/images/logo%20curso.png"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/MarcosPrintes001">
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPrintes001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPrintes001&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
   
 ## Tecnologias que tenho dominio
 <div>
