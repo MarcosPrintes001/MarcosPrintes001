@@ -6,13 +6,13 @@
 
 <div align="center">
   <h1> 📘Aluno Na UFOPA💻</h1>
-    <img aling="center" height="150" alt="UFOPACORI"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fufopaorix%2F%3Flocale%3Dpt_BR&psig=AOvVaw2vfGf6ylBeGwLKhL-9fCvS&ust=1683376448719000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjfyIyY3v4CFQAAAAAdAAAAABAE"/>
+    <img aling="center" height="150" alt="UFOPACORI"src=""/>
     <img aling="top" height="150" alt="BSIUFOPA"src="https://github.com/MarcosPrintes001/MarcosPrintes001/blob/main/logo%20curso.png"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/MarcosPrintes001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPrintes001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src=""/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPrintes001&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
